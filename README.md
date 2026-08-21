@@ -22,18 +22,18 @@ logos/
       "id": "fnac",
       "name": "Fnac",
       "logo": "fnac.png",
-      "color": "#E6E6E6",
+      "color": "#1A1A1A",
       "aliases": ["fnac", "fnac darty"]
     }
   ]
 }
 ```
 
-- `id` : unique slug
-- `name` : display name
-- `logo` : filename inside `logos/`
-- `color` : optional brand accent (ARGB/hex)
-- `aliases` : alternative spellings the app will match against
+- `id` : unique slug  
+- `name` : display name  
+- `logo` : filename inside `logos/`  
+- `color` : brand accent (hex)  
+- `aliases` : alternative spellings matched when the user types a store name  
 
 ## How the app uses it
 
@@ -46,3 +46,9 @@ When the user types a store name while adding a card, the app searches this cata
 If a match is found it offers the logo; otherwise the user can continue without one.
 
 Logos are downloaded once and cached locally. No personal data is ever sent.
+
+## Current coverage
+
+~70 French retail & services brands (grocery, fashion, sport, beauty, DIY, telecom, culture, food service, etc.).
+
+Placeholder logos ship as colored tiles with the brand name. Replace any file in `logos/` with the official asset (same filename) when available.
