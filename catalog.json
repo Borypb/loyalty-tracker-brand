@@ -65,10 +65,18 @@
     {"id": "sncf", "name": "SNCF", "logo": "sncf.png", "color": "#E30613", "aliases": ["sncf", "carte avantage sncf"]},
     {"id": "cdiscount", "name": "Cdiscount", "logo": "cdiscount.png", "color": "#1A1A1A", "aliases": ["cdiscount"]},
     {"id": "amazon", "name": "Amazon", "logo": "amazon.png", "color": "#232F3E", "aliases": ["amazon", "amazon prime"]},
-    {"id": "mcdonalds", "name": "McDonald's", "logo": "mcdonalds.png", "color": "#FFC72C", "aliases": ["mcdonalds", "mcdonald's", "mc do", "mcdo"]},
-    {"id": "burger_king", "name": "Burger King", "logo": "burger_king.png", "color": "#D62300", "aliases": ["burger king", "bk"]},
+    {"id": "mcdonalds", "name": "McDonald's", "logo": "mcdonalds.png", "color": "#FFC72C", "aliases": ["mcdonalds", "mcdonald's", "mcdonald", "mc do", "mcdo", "mcd"]},
+    {"id": "burger_king", "name": "Burger King", "logo": "burger_king.png", "color": "#D62300", "aliases": ["burger king", "bk", "burgerking"]},
     {"id": "subway", "name": "Subway", "logo": "subway.png", "color": "#008C15", "aliases": ["subway"]},
     {"id": "starbucks", "name": "Starbucks", "logo": "starbucks.png", "color": "#00704A", "aliases": ["starbucks"]},
-    {"id": "paul", "name": "Paul", "logo": "paul.png", "color": "#1A1A1A", "aliases": ["paul"]}
+    {"id": "paul", "name": "Paul", "logo": "paul.png", "color": "#1A1A1A", "aliases": ["paul"]},
+    {"id": "lollys", "name": "Lolly's", "logo": "lollys.png", "color": "#E91E8C", "aliases": ["lolly's", "lollys", "lolly"]},
+    {"id": "haribo", "name": "Haribo", "logo": "haribo.png", "color": "#E30613", "aliases": ["haribo"]},
+    {"id": "galeries_lafayette", "name": "Galeries Lafayette", "logo": "galeries_lafayette.png", "color": "#E30613", "aliases": ["galeries lafayette", "gl", "carte fidelite galeries lafayette"]},
+    {"id": "flying_blue", "name": "Flying Blue", "logo": "flying_blue.png", "color": "#002157", "aliases": ["flying blue", "flyingblue", "air france", "klm flying blue"]},
+    {"id": "ikea_family", "name": "IKEA Family", "logo": "ikea_family.png", "color": "#0051BA", "aliases": ["ikea family", "ikea family card"]},
+    {"id": "rituals", "name": "Rituals", "logo": "rituals.png", "color": "#1A1A1A", "aliases": ["rituals", "rituals cosmetics"]},
+    {"id": "dfs_loyal_t", "name": "DFS Loyal T", "logo": "dfs_loyal_t.png", "color": "#1A1A1A", "aliases": ["dfs", "dfs loyal t", "loyal t", "dfs loyalt"]},
+    {"id": "ugc", "name": "UGC", "logo": "ugc.png", "color": "#E30613", "aliases": ["ugc", "ugc cinemas"]}
   ]
 }
