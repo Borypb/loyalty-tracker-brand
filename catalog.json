@@ -5,7 +5,7 @@
       "id": "fnac",
       "name": "Fnac",
       "logo": "fnac.png",
-      "color": "#E6E6E6",
+      "color": "#1A1A1A",
       "aliases": ["fnac", "fnac darty"]
     },
     {
@@ -47,7 +47,7 @@
       "id": "aldi",
       "name": "Aldi",
       "logo": "aldi.png",
-      "color": "#0000FF",
+      "color": "#0000C8",
       "aliases": ["aldi"]
     },
     {
@@ -70,6 +70,41 @@
       "logo": "systeme_u.png",
       "color": "#009639",
       "aliases": ["systeme u", "système u", "u express", "super u", "hyper u"]
+    },
+    {
+      "id": "micromania",
+      "name": "Micromania",
+      "logo": "micromania.png",
+      "color": "#E31C23",
+      "aliases": ["micromania", "micromania zing"]
+    },
+    {
+      "id": "darty",
+      "name": "Darty",
+      "logo": "darty.png",
+      "color": "#E30613",
+      "aliases": ["darty"]
+    },
+    {
+      "id": "boulanger",
+      "name": "Boulanger",
+      "logo": "boulanger.png",
+      "color": "#0066B3",
+      "aliases": ["boulanger"]
+    },
+    {
+      "id": "decathlon",
+      "name": "Decathlon",
+      "logo": "decathlon.png",
+      "color": "#0082C3",
+      "aliases": ["decathlon"]
+    },
+    {
+      "id": "ikea",
+      "name": "IKEA",
+      "logo": "ikea.png",
+      "color": "#0051BA",
+      "aliases": ["ikea"]
     }
   ]
 }
