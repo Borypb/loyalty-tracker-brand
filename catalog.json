@@ -1,1 +1,12 @@
-{"version": 1, "cards": []}
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "7eleven",
+      "name": "7-Eleven",
+      "logo": "7eleven.png",
+      "color": "#FF6600",
+      "aliases": ["7 eleven", "7-eleven", "seven eleven"]
+    }
+  ]
+}
