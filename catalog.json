@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "fnac",
+      "name": "Fnac",
+      "logo": "fnac.png",
+      "color": "#E6E6E6",
+      "aliases": ["fnac", "fnac darty"]
+    },
+    {
+      "id": "carrefour",
+      "name": "Carrefour",
+      "logo": "carrefour.png",
+      "color": "#004E9E",
+      "aliases": ["carrefour", "carrefour market", "carrefour city", "carrefour express"]
+    },
+    {
+      "id": "leclerc",
+      "name": "E.Leclerc",
+      "logo": "leclerc.png",
+      "color": "#E30613",
+      "aliases": ["leclerc", "e.leclerc", "e leclerc"]
+    },
+    {
+      "id": "intermarche",
+      "name": "Intermarché",
+      "logo": "intermarche.png",
+      "color": "#E30613",
+      "aliases": ["intermarche", "intermarché", "intermarche express"]
+    },
+    {
+      "id": "auchan",
+      "name": "Auchan",
+      "logo": "auchan.png",
+      "color": "#E30613",
+      "aliases": ["auchan", "auchan supermarket"]
+    },
+    {
+      "id": "lidl",
+      "name": "Lidl",
+      "logo": "lidl.png",
+      "color": "#0050AA",
+      "aliases": ["lidl"]
+    },
+    {
+      "id": "aldi",
+      "name": "Aldi",
+      "logo": "aldi.png",
+      "color": "#0000FF",
+      "aliases": ["aldi"]
+    },
+    {
+      "id": "monoprix",
+      "name": "Monoprix",
+      "logo": "monoprix.png",
+      "color": "#E30613",
+      "aliases": ["monoprix"]
+    },
+    {
+      "id": "casino",
+      "name": "Casino",
+      "logo": "casino.png",
+      "color": "#E30613",
+      "aliases": ["casino", "casino shop"]
+    },
+    {
+      "id": "systeme_u",
+      "name": "Système U",
+      "logo": "systeme_u.png",
+      "color": "#009639",
+      "aliases": ["systeme u", "système u", "u express", "super u", "hyper u"]
+    }
+  ]
+}
