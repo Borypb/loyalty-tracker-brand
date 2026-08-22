@@ -5,7 +5,7 @@
       "id": "7eleven",
       "name": "7-Eleven",
       "logo": "7eleven.png",
-      "color": "#FF6600",
+      "color": "#008061",
       "aliases": [
         "7 eleven",
         "7-eleven",
@@ -16,7 +16,7 @@
       "id": "action",
       "name": "Action",
       "logo": "action.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "action"
       ]
@@ -25,7 +25,7 @@
       "id": "albertsons",
       "name": "Albertsons",
       "logo": "albertsons.png",
-      "color": "#E31837",
+      "color": "#e5e7e6",
       "aliases": [
         "albertsons"
       ]
@@ -34,7 +34,7 @@
       "id": "aldi",
       "name": "Aldi",
       "logo": "aldi.png",
-      "color": "#0000C8",
+      "color": "#e5e7e6",
       "aliases": [
         "aldi"
       ]
@@ -43,7 +43,7 @@
       "id": "auchan",
       "name": "Auchan",
       "logo": "auchan.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "auchan",
         "auchan supermarket",
@@ -74,7 +74,7 @@
       "id": "biocoop",
       "name": "Biocoop",
       "logo": "biocoop.png",
-      "color": "#6B9E3A",
+      "color": "#0854a4",
       "aliases": [
         "biocoop"
       ]
@@ -83,7 +83,7 @@
       "id": "boulanger",
       "name": "Boulanger",
       "logo": "boulanger.png",
-      "color": "#0066B3",
+      "color": "#e5e7e6",
       "aliases": [
         "boulanger"
       ]
@@ -92,7 +92,7 @@
       "id": "bouygues",
       "name": "Bouygues Telecom",
       "logo": "bouygues.png",
-      "color": "#0091D4",
+      "color": "#e5e7e6",
       "aliases": [
         "bouygues",
         "bouygues telecom"
@@ -122,7 +122,7 @@
       "id": "c_and_a",
       "name": "C&A",
       "logo": "c_and_a.png",
-      "color": "#003DA5",
+      "color": "#e5e7e6",
       "aliases": [
         "c&a",
         "c and a",
@@ -133,7 +133,7 @@
       "id": "carrefour",
       "name": "Carrefour",
       "logo": "carrefour.png",
-      "color": "#004E9E",
+      "color": "#e5e7e6",
       "aliases": [
         "carrefour",
         "carrefour market",
@@ -146,7 +146,7 @@
       "id": "casino",
       "name": "Casino",
       "logo": "casino.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "casino",
         "casino shop",
@@ -157,7 +157,7 @@
       "id": "castorama",
       "name": "Castorama",
       "logo": "castorama.png",
-      "color": "#0033A0",
+      "color": "#e5e7e6",
       "aliases": [
         "castorama",
         "casto"
@@ -177,7 +177,7 @@
       "id": "celio",
       "name": "Celio",
       "logo": "celio.png",
-      "color": "#1A1A1A",
+      "color": "#e5e7e6",
       "aliases": [
         "celio"
       ]
@@ -186,7 +186,7 @@
       "id": "chick_fil_a",
       "name": "Chick-fil-A",
       "logo": "chick_fil_a.png",
-      "color": "#E51636",
+      "color": "#e5e7e6",
       "aliases": [
         "chick-fil-a",
         "chick fila",
@@ -215,7 +215,7 @@
       "id": "cultura",
       "name": "Cultura",
       "logo": "cultura.png",
-      "color": "#E30613",
+      "color": "#317AC1",
       "aliases": [
         "cultura"
       ]
@@ -224,7 +224,7 @@
       "id": "cvs",
       "name": "CVS",
       "logo": "cvs.png",
-      "color": "#CC0000",
+      "color": "#e5e7e6",
       "aliases": [
         "cvs",
         "cvs pharmacy"
@@ -274,7 +274,7 @@
       "id": "dominos",
       "name": "Domino's",
       "logo": "dominos.png",
-      "color": "#006491",
+      "color": "#e5e7e6",
       "aliases": [
         "dominos",
         "domino's",
@@ -285,7 +285,7 @@
       "id": "dunkin",
       "name": "Dunkin'",
       "logo": "dunkin.png",
-      "color": "#FF671F",
+      "color": "#e5e7e6",
       "aliases": [
         "dunkin",
         "dunkin donuts",
@@ -344,7 +344,7 @@
       "id": "free",
       "name": "Free",
       "logo": "free.png",
-      "color": "#CD1E2F",
+      "color": "#e5e7e6",
       "aliases": [
         "free",
         "free mobile"
@@ -373,7 +373,7 @@
       "id": "go_sport",
       "name": "Go Sport",
       "logo": "go_sport.png",
-      "color": "#0033A0",
+      "color": "#afb81e",
       "aliases": [
         "go sport",
         "gosport"
@@ -383,7 +383,7 @@
       "id": "grand_frais",
       "name": "Grand Frais",
       "logo": "grand_frais.png",
-      "color": "#2E7D32",
+      "color": "#e5e7e6",
       "aliases": [
         "grand frais"
       ]
@@ -410,7 +410,7 @@
       "id": "hm",
       "name": "H&M",
       "logo": "hm.png",
-      "color": "#E50010",
+      "color": "#e5e7e6",
       "aliases": [
         "h&m",
         "hm",
@@ -449,7 +449,7 @@
       "id": "intermarche",
       "name": "Intermarché",
       "logo": "intermarche.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "intermarche",
         "intermarché",
@@ -460,7 +460,7 @@
       "id": "intersport",
       "name": "Intersport",
       "logo": "intersport.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "intersport"
       ]
@@ -506,7 +506,7 @@
       "id": "la_poste",
       "name": "La Poste",
       "logo": "la_poste.png",
-      "color": "#003DA5",
+      "color": "#ffcb05",
       "aliases": [
         "la poste",
         "laposte"
@@ -516,7 +516,7 @@
       "id": "leader_price",
       "name": "Leader Price",
       "logo": "leader_price.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "leader price",
         "leaderprice"
@@ -587,7 +587,7 @@
       "id": "maison_du_monde",
       "name": "Maisons du Monde",
       "logo": "maison_du_monde.png",
-      "color": "#1A1A1A",
+      "color": "#e5e7e6",
       "aliases": [
         "maisons du monde",
         "maison du monde"
@@ -597,7 +597,7 @@
       "id": "mcdonalds",
       "name": "McDonald's",
       "logo": "mcdonalds.png",
-      "color": "#FFC72C",
+      "color": "#264f36",
       "aliases": [
         "mcdonalds",
         "mcdonald's",
@@ -609,7 +609,7 @@
       "id": "mcdonalds_us",
       "name": "McDonald's (US)",
       "logo": "mcdonalds_us.png",
-      "color": "#FFC72C",
+      "color": "#264f36",
       "aliases": [
         "mcdonalds us"
       ]
@@ -637,7 +637,7 @@
       "id": "monoprix",
       "name": "Monoprix",
       "logo": "monoprix.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "monoprix"
       ]
@@ -675,7 +675,7 @@
       "id": "nike",
       "name": "Nike",
       "logo": "nike.png",
-      "color": "#111111",
+      "color": "#e5e7e6",
       "aliases": [
         "nike"
       ]
@@ -684,7 +684,7 @@
       "id": "nocibe",
       "name": "Nocibé",
       "logo": "nocibe.png",
-      "color": "#E91E8C",
+      "color": "#e5e7e6",
       "aliases": [
         "nocibe",
         "nocibé"
@@ -694,7 +694,7 @@
       "id": "nordstrom",
       "name": "Nordstrom",
       "logo": "nordstrom.png",
-      "color": "#1A1A1A",
+      "color": "#e5e7e6",
       "aliases": [
         "nordstrom"
       ]
@@ -721,7 +721,7 @@
       "id": "orange",
       "name": "Orange",
       "logo": "orange.png",
-      "color": "#FF7900",
+      "color": "#e5e7e6",
       "aliases": [
         "orange"
       ]
@@ -730,7 +730,7 @@
       "id": "panera",
       "name": "Panera Bread",
       "logo": "panera.png",
-      "color": "#3A7D44",
+      "color": "#e5e7e6",
       "aliases": [
         "panera",
         "panera bread"
@@ -740,7 +740,7 @@
       "id": "paul",
       "name": "Paul",
       "logo": "paul.png",
-      "color": "#1A1A1A",
+      "color": "#e5e7e6",
       "aliases": [
         "paul"
       ]
@@ -768,7 +768,7 @@
       "id": "promod",
       "name": "Promod",
       "logo": "promod.png",
-      "color": "#E91E8C",
+      "color": "#e5e7e6",
       "aliases": [
         "promod"
       ]
@@ -786,7 +786,7 @@
       "id": "rei",
       "name": "REI",
       "logo": "rei.png",
-      "color": "#1A1A1A",
+      "color": "#e5e7e6",
       "aliases": [
         "rei"
       ]
@@ -822,7 +822,7 @@
       "id": "sams_club",
       "name": "Sam's Club",
       "logo": "sams_club.png",
-      "color": "#0071CE",
+      "color": "#e5e7e6",
       "aliases": [
         "sams club",
         "sam's club"
@@ -832,7 +832,7 @@
       "id": "sephora",
       "name": "Sephora",
       "logo": "sephora.png",
-      "color": "#000000",
+      "color": "#231f20",
       "aliases": [
         "sephora"
       ]
@@ -841,7 +841,7 @@
       "id": "sfr",
       "name": "SFR",
       "logo": "sfr.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "sfr"
       ]
@@ -860,7 +860,7 @@
       "id": "spar",
       "name": "SPAR",
       "logo": "spar.png",
-      "color": "#009639",
+      "color": "#e5e7e6",
       "aliases": [
         "spar"
       ]
@@ -869,7 +869,7 @@
       "id": "sport_2000",
       "name": "Sport 2000",
       "logo": "sport_2000.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "sport 2000",
         "sport2000"
@@ -888,7 +888,7 @@
       "id": "subway",
       "name": "Subway",
       "logo": "subway.png",
-      "color": "#008C15",
+      "color": "#e5e7e6",
       "aliases": [
         "subway"
       ]
@@ -897,7 +897,7 @@
       "id": "systeme_u",
       "name": "Système U",
       "logo": "systeme_u.png",
-      "color": "#009639",
+      "color": "#e5e7e6",
       "aliases": [
         "systeme u",
         "système u",
@@ -910,7 +910,7 @@
       "id": "target",
       "name": "Target",
       "logo": "target.png",
-      "color": "#CC0000",
+      "color": "#e5e7e6",
       "aliases": [
         "target"
       ]
@@ -930,7 +930,7 @@
       "id": "totalenergies",
       "name": "TotalEnergies",
       "logo": "totalenergies.png",
-      "color": "#E30613",
+      "color": "#e5e7e6",
       "aliases": [
         "total",
         "totalenergies",
@@ -969,7 +969,7 @@
       "id": "walgreens",
       "name": "Walgreens",
       "logo": "walgreens.png",
-      "color": "#E31837",
+      "color": "#e5e7e6",
       "aliases": [
         "walgreens"
       ]
@@ -987,7 +987,7 @@
       "id": "whole_foods",
       "name": "Whole Foods",
       "logo": "whole_foods.png",
-      "color": "#00674F",
+      "color": "#e5e7e6",
       "aliases": [
         "whole foods",
         "whole foods market"
@@ -1006,7 +1006,7 @@
       "id": "zara",
       "name": "Zara",
       "logo": "zara.png",
-      "color": "#1A1A1A",
+      "color": "#e5e7e6",
       "aliases": [
         "zara"
       ]
