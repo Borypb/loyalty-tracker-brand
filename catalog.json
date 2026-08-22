@@ -850,7 +850,7 @@
       "id": "sncf",
       "name": "SNCF",
       "logo": "sncf.png",
-      "color": "#E30613",
+      "color": "#0e1426",
       "aliases": [
         "sncf",
         "voyage sncf"
@@ -941,7 +941,7 @@
       "id": "ugc",
       "name": "UGC",
       "logo": "ugc.png",
-      "color": "#E30613",
+      "color": "#00134d",
       "aliases": [
         "ugc"
       ]
