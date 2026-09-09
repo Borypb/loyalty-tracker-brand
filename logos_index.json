@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": [
     "logos_pack_0.json",
     "logos_pack_1.json",
@@ -10,7 +10,8 @@
     "logos_pack_6.json",
     "logos_pack_7.json",
     "logos_pack_8.json",
-    "logos_pack_9.json"
+    "logos_pack_9.json",
+    "logos_pack_10.json"
   ],
   "brands": {
     "action": "logos_pack_0.json",
@@ -57,9 +58,9 @@
     "leclerc": "logos_pack_5.json",
     "leroy_merlin": "logos_pack_5.json",
     "lidl": "logos_pack_5.json",
-    "lollys": "logos_pack_5.json",
+    "lollys": "logos_pack_10.json",
     "maison_du_monde": "logos_pack_5.json",
-    "marionnaud": "logos_pack_5.json",
+    "marionnaud": "logos_pack_10.json",
     "mcdonalds": "logos_pack_5.json",
     "micromania": "logos_pack_6.json",
     "midas": "logos_pack_6.json",
@@ -89,6 +90,24 @@
     "ugc": "logos_pack_9.json",
     "uniqlo": "logos_pack_9.json",
     "yves_rocher": "logos_pack_9.json",
-    "zara": "logos_pack_9.json"
-  }
+    "zara": "logos_pack_9.json",
+    "adidas": "logos_pack_10.json",
+    "courir": "logos_pack_10.json",
+    "gamecash": "logos_pack_10.json",
+    "jardiland": "logos_pack_10.json",
+    "la_grande_recre": "logos_pack_10.json",
+    "lego": "logos_pack_10.json",
+    "truffaut": "logos_pack_10.json",
+    "turkish_airlines": "logos_pack_10.json"
+  },
+  "adidas": "logos_pack_10.json",
+  "courir": "logos_pack_10.json",
+  "gamecash": "logos_pack_10.json",
+  "jardiland": "logos_pack_10.json",
+  "la_grande_recre": "logos_pack_10.json",
+  "lego": "logos_pack_10.json",
+  "lollys": "logos_pack_10.json",
+  "marionnaud": "logos_pack_10.json",
+  "truffaut": "logos_pack_10.json",
+  "turkish_airlines": "logos_pack_10.json"
 }
