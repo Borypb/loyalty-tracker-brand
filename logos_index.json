@@ -13,7 +13,9 @@
     "logos_pack_9.json",
     "logos_pack_adidas.json",
     "logos_pack_jardiland.json",
-    "logos_pack_ch_libourne.json"
+    "logos_pack_ch_libourne.json",
+    "logos_pack_courir.json",
+    "logos_pack_ugc.json"
   ],
   "adidas": "logos_pack_adidas.json",
   "jardiland": "logos_pack_jardiland.json",
@@ -26,6 +28,7 @@
   "truffaut": "logos_pack_truffaut.json",
   "turkish_airlines": "logos_pack_turkish_airlines.json",
   "ch_libourne": "logos_pack_ch_libourne.json",
+  "ugc": "logos_pack_ugc.json",
   "brands": {
     "adidas": "logos_pack_adidas.json",
     "jardiland": "logos_pack_jardiland.json",
@@ -37,6 +40,7 @@
     "marionnaud": "logos_pack_marionnaud.json",
     "truffaut": "logos_pack_truffaut.json",
     "turkish_airlines": "logos_pack_turkish_airlines.json",
-    "ch_libourne": "logos_pack_ch_libourne.json"
+    "ch_libourne": "logos_pack_ch_libourne.json",
+    "ugc": "logos_pack_ugc.json"
   }
 }
