@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "cards": [
     {
       "id": "7eleven",
@@ -417,6 +417,20 @@
       "aliases": [
         "fnac",
         "fnac darty"
+      ]
+    },
+    {
+      "id": "fraicheur_dici",
+      "name": "Fraîcheur d'ici",
+      "logo": "fraicheur_dici.png",
+      "color": "#000000",
+      "aliases": [
+        "fraicheur d'ici",
+        "fraîcheur d'ici",
+        "fraicheur dici",
+        "fraîcheur dici",
+        "fraicheur d ici",
+        "carte fraicheur d'ici"
       ]
     },
     {
