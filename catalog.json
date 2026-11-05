@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "cards": [
     {
       "id": "7eleven",
@@ -695,6 +695,20 @@
         "la grande récré",
         "grande recre",
         "lgr"
+      ]
+    },
+    {
+      "id": "la_halle",
+      "name": "La Halle",
+      "logo": "la_halle.png",
+      "color": "#FFFFFF",
+      "aliases": [
+        "la halle",
+        "lahalle",
+        "halle",
+        "la halle aux vetements",
+        "la halle aux chaussures",
+        "carte la halle"
       ]
     },
     {
