@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "cards": [
     {
       "id": "7eleven",
@@ -178,6 +178,17 @@
         "casino",
         "casino shop",
         "groupe casino"
+      ]
+    },
+    {
+      "id": "casti_prix",
+      "name": "Casti Prix",
+      "logo": "casti_prix.png",
+      "color": "#FFFFFF",
+      "aliases": [
+        "casti prix",
+        "castiprix",
+        "carte casti prix"
       ]
     },
     {
