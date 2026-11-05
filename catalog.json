@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "cards": [
     {
       "id": "7eleven",
@@ -1338,7 +1338,7 @@
       "id": "yves_rocher",
       "name": "Yves Rocher",
       "logo": "yves_rocher.png",
-      "color": "#006633",
+      "color": "#FFFFFF",
       "aliases": [
         "yves rocher"
       ]
