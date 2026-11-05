@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 15,
   "cards": [
     {
       "id": "7eleven",
@@ -53,6 +53,18 @@
       ]
     },
     {
+      "id": "ange",
+      "name": "Ange",
+      "logo": "ange.png",
+      "color": "#000000",
+      "aliases": [
+        "ange",
+        "boulangerie ange",
+        "ange boulangerie",
+        "carte ange"
+      ]
+    },
+    {
       "id": "armand_thiery",
       "name": "Armand Thiery",
       "logo": "armand_thiery.png",
@@ -88,6 +100,18 @@
       ]
     },
     {
+      "id": "beauty_success",
+      "name": "Beauty Success",
+      "logo": "beauty_success.png",
+      "color": "#FFFFFF",
+      "aliases": [
+        "beauty success",
+        "beautysuccess",
+        "beauty-success",
+        "carte beauty success"
+      ]
+    },
+    {
       "id": "best_buy",
       "name": "Best Buy",
       "logo": "best_buy.png",
@@ -104,6 +128,18 @@
       "color": "#6B9E3A",
       "aliases": [
         "biocoop"
+      ]
+    },
+    {
+      "id": "biok",
+      "name": "BIOK",
+      "logo": "biok.png",
+      "color": "#F5F0E6",
+      "aliases": [
+        "biok",
+        "bio k",
+        "venta biok",
+        "carte biok"
       ]
     },
     {
@@ -554,7 +590,7 @@
       "id": "ikea",
       "name": "IKEA",
       "logo": "ikea.png",
-      "color": "#0051BA",
+      "color": "#001F5B",
       "aliases": [
         "ikea"
       ]
@@ -563,7 +599,7 @@
       "id": "ikea_family",
       "name": "IKEA Family",
       "logo": "ikea_family.png",
-      "color": "#0051BA",
+      "color": "#001F5B",
       "aliases": [
         "ikea family"
       ]
@@ -572,7 +608,7 @@
       "id": "intermarche",
       "name": "Intermarché",
       "logo": "intermarche.png",
-      "color": "#E30613",
+      "color": "#F5F0E6",
       "aliases": [
         "intermarche",
         "intermarché",
@@ -583,7 +619,7 @@
       "id": "intersport",
       "name": "Intersport",
       "logo": "intersport.png",
-      "color": "#E30613",
+      "color": "#FFFFFF",
       "aliases": [
         "intersport"
       ]
@@ -810,12 +846,35 @@
       ]
     },
     {
+      "id": "mondial_tissus",
+      "name": "Mondial Tissus",
+      "logo": "mondial_tissus.png",
+      "color": "#F5F0E6",
+      "aliases": [
+        "mondial tissus",
+        "mondialtissus",
+        "carte mondial tissus"
+      ]
+    },
+    {
       "id": "monoprix",
       "name": "Monoprix",
       "logo": "monoprix.png",
       "color": "#F2F2F2",
       "aliases": [
         "monoprix"
+      ]
+    },
+    {
+      "id": "ms_mode",
+      "name": "MS Mode",
+      "logo": "ms_mode.png",
+      "color": "#FFFFFF",
+      "aliases": [
+        "ms mode",
+        "msmode",
+        "ms-mode",
+        "carte ms mode"
       ]
     },
     {
@@ -910,6 +969,19 @@
       "aliases": [
         "panera",
         "panera bread"
+      ]
+    },
+    {
+      "id": "pass_commerces_coutrillon",
+      "name": "Pass'commerces Coutrillon",
+      "logo": "pass_commerces_coutrillon.png",
+      "color": "#281478",
+      "aliases": [
+        "pass commerces coutrillon",
+        "pass'commerces",
+        "pass commerces",
+        "coutrillon",
+        "passcommerces"
       ]
     },
     {
@@ -1184,6 +1256,19 @@
       ]
     },
     {
+      "id": "venta_peio",
+      "name": "Venta Peio",
+      "logo": "venta_peio.png",
+      "color": "#FDFBF3",
+      "aliases": [
+        "venta peio",
+        "venta peïo",
+        "peio",
+        "carte venta peio",
+        "ventapeio"
+      ]
+    },
+    {
       "id": "walgreens",
       "name": "Walgreens",
       "logo": "walgreens.png",
@@ -1199,6 +1284,17 @@
       "color": "#0071CE",
       "aliases": [
         "walmart"
+      ]
+    },
+    {
+      "id": "weldom",
+      "name": "Weldom",
+      "logo": "weldom.png",
+      "color": "#F5F0E6",
+      "aliases": [
+        "weldom",
+        "carte weldom",
+        "weldom bricolage"
       ]
     },
     {
