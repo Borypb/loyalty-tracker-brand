@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "cards": [
     {
       "id": "7eleven",
@@ -412,6 +412,19 @@
         "eden park",
         "edenpark",
         "carte eden park"
+      ]
+    },
+    {
+      "id": "elsie_sante",
+      "name": "Elsie Santé",
+      "logo": "elsie_sante.png",
+      "color": "#F5F0E6",
+      "aliases": [
+        "elsie",
+        "elsie sante",
+        "elsie santé",
+        "carte elsie sante",
+        "pharmacie elsie sante"
       ]
     },
     {
